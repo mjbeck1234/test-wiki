@@ -1,7 +1,7 @@
 ---
 title: KCLE Standard Operating Procedures (TEST)
 category: SOPs
-visibility: members, staff
+visibility: staff
 published: true
 ---
 
